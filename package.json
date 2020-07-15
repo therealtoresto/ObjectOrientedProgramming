@@ -1,0 +1,25 @@
+{
+  "name": "objectorientedprogramming",
+  "version": "1.0.0",
+  "description": "oop",
+  "main": "main.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/ObjectOrientedProgramming.git"
+  },
+  "keywords": [
+    "oop",
+    "object",
+    "oriented",
+    "programming"
+  ],
+  "author": "therealtoresto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/ObjectOrientedProgramming/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/ObjectOrientedProgramming#readme"
+}
